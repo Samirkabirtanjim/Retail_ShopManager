@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Your Shop</string>
+    <string-array name="city_names">
+        <item>Dhaka</item>
+        <item>Chittagong</item>
+        <item>Khulna</item>
+        <item>Rajshahi</item>
+        <item>Sylhet</item>
+        <item>Barisal</item>
+        <item>Rangpur</item>
+        <item>Comilla</item>
+        <item>Mymensingh</item>
+        <item>Gazipur</item>
+    </string-array>
+</resources>
