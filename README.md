@@ -1,7 +1,7 @@
 # Retail Shop Manager App
 
 ## Description
-The Retail Shop Manager app is designed to streamline the process of managing retail shops. The app provides a smooth onboarding experience with a welcome animation followed by screens to gather user and shop information. This setup allows users to efficiently enter personal details, shop specifics, and shop type.
+The Retail Shop Manager app is designed to learn. The app provides a smooth onboarding experience with a welcome animation and screens to gather user and shop information. This setup allows users to efficiently enter personal details, shop specifics, and shop types.
 
 ## Features
 - **Welcome Animation:** A visually appealing introduction to the app.
