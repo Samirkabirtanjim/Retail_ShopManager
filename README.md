@@ -10,10 +10,9 @@ The Retail Shop Manager app is designed to streamline the process of managing re
 - **Shop Type Selection:** Allows users to specify the type of shop they are managing.
 
 ## Screenshots
-![Welcome Animation](images/welcome_animation.png)
-![Personal Information](images/personal_information.png)
-![Shop Details](images/shop_details.png)
-![Shop Type Selection](images/shop_type.png)
+![Business Information](https://github.com/Samirkabirtanjim/Retail_ShopManager/blob/main/Business%20Information.jpg?raw=true)
+![Personal Information](https://github.com/Samirkabirtanjim/Retail_ShopManager/blob/main/Personal%20Infromation.jpg?raw=true)
+![Select Shop Type](https://github.com/Samirkabirtanjim/Retail_ShopManager/blob/main/Select%20Shop%20Type.jpg?raw=true)
 
 ## How to Run Locally
 1. Clone the repository:
